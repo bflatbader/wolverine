@@ -1,0 +1,25 @@
+body {
+    background-color: #EEF4ED;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    position: fixed;
+    background-color: #134074;
+    height: 100px;
+    width: 100%;
+    color: #EEF4ED;
+    font-size: 60px;
+    font-style: italic;
+    line-height: 150%;
+    padding: 10px 10px 10px 10px;
+    border-bottom: 5px solid #13315C;
+}
+
+#content {
+    clear: both;
+    display: block;
+    margin-top: 150px;
+}
